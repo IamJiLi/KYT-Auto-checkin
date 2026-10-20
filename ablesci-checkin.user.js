@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         科研通自动签到
 // @namespace    https://github.com/IamJiLi/KYT-Auto-checkin
-// @version      1.0.1
-// @description  基于脚本猫后台每日自动科研通签到，复用浏览器已登录状态，页面弹窗显示执行情况。
+// @version      1.0.2
+// @description  基于脚本猫后台每日自动科研通签到，复用浏览器已登录状态，系统通知显示执行情况。
 // @author       IamJiLi
 // @homepageURL  https://github.com/IamJiLi/KYT-Auto-checkin
 // @supportURL   https://github.com/IamJiLi/KYT-Auto-checkin/issues
